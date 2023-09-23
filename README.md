@@ -46,4 +46,8 @@ This is a React-based web application for analyzing wine data. It calculates var
 - The table displays statistics for different alcohol types based on the selected property.
 
 - Explore the Mean, Median, and Mode values for each alcohol type.
+>output image
 
+![s1](https://github.com/shanu3742/test_wine-app/assets/65018865/f3282c6d-67e6-48e7-a2f7-1c9ba23f7ac8)
+
+![s2](https://github.com/shanu3742/test_wine-app/assets/65018865/0527b66e-0b9a-4378-9bd3-8e31acaae8d8)
