@@ -20,11 +20,11 @@ This is a React-based web application for analyzing wine data. It calculates var
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/wine-analysis-app.git
+   git clone https://github.com/shanu3742/test_wine-app.git
    ```
 2. Navigate to the project directory:
     ```bash
-    cd wine-analysis-app
+    cd my-test-app
 
     ```
 3. Install the dependencies:
