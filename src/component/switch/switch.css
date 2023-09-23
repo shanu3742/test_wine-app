@@ -1,0 +1,6 @@
+.switch{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    text-transform: capitalize;
+}
