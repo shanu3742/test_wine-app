@@ -24,7 +24,7 @@ This is a React-based web application for analyzing wine data. It calculates var
    ```
 2. Navigate to the project directory:
     ```bash
-    cd my-test-app
+    cd test_wine-app
 
     ```
 3. Install the dependencies:
